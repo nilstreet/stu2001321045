@@ -1,0 +1,29 @@
+commit c9a28eeeff4748b41e0fc1a5306a0c27a2fd2769
+Author: miglena-dodleva <miglenadodleva@abv.bg>
+Date:   Fri Jan 19 19:46:40 2024 +0200
+
+    Add 'Services and Pricing' section with detailed offerings and example prices
+
+commit 7f6528e5f64998f27147b8c3db6f108e44a05eb9
+Author: miglena-dodleva <miglenadodleva@abv.bg>
+Date:   Fri Jan 19 19:34:22 2024 +0200
+
+    Add 'My Channel' section with channel description and goals
+
+commit 43111e7bb18a8e19875ae0a7fc3afbcba775f881
+Author: miglena-dodleva <miglenadodleva@abv.bg>
+Date:   Fri Jan 19 19:32:01 2024 +0200
+
+    Add link and description of inspiring content creator
+
+commit d1cb4bba4783050edb4254ae52d32c3296c76254
+Author: miglena-dodleva <miglenadodleva@abv.bg>
+Date:   Fri Jan 19 19:31:06 2024 +0200
+
+    Add 'Hobbies and Interests' section detailing travel passion and exploration
+
+commit bd3a697557d273ad654d48a49c42f1c9eb4b4f77
+Author: miglena-dodleva <miglenadodleva@abv.bg>
+Date:   Fri Jan 19 19:23:29 2024 +0200
+
+    Add information about me
